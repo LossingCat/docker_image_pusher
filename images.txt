@@ -6,6 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mysql:8.0
 canal/canal-server:latest
-canal/canal-server:1.1.7
 canal/canal-adapter
 canal/admin
