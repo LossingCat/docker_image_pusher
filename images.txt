@@ -5,6 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 mysql:8.0
-canal/canal-server:latest
-canal/canal-adapter
-canal/admin
+canal/canal-server:v1.1.7
